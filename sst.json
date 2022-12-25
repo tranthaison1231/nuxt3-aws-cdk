@@ -1,0 +1,5 @@
+{
+  "name": "nuxt-3-app-aws",
+  "region": "eu-central-1",
+  "main": "stacks/index.ts"
+}
